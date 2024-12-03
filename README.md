@@ -1,2 +1,2 @@
 # predict-war-supplies-comsumption
-use fbprophet model, I lost my code, so this code is an similar concept but is used to predict stock price
+I used fbprophet model to finish my Big Data Analysis course's project. My code file was gone, and this code is an similar concept but was used to predict stock price
